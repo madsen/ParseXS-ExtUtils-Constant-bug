@@ -1,0 +1,16 @@
+/.build/
+/_build/
+/blib/
+/Build
+/Build.bat
+Makefile
+/META.*
+/MYMETA.*
+/pm_to_blib
+Foo-*.tar.gz
+Foo-*/
+/test-results/
+*.c
+*.o
+*.obj
+*.pdb

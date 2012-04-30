@@ -1,0 +1,9 @@
+Build.PL
+lib/const-c.inc
+lib/const-xs.inc
+lib/foo.h
+lib/Foo.pm
+lib/Foo.xs
+lib/ppport.h
+MANIFEST
+t/10-constants.t
